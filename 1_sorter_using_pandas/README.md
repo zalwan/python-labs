@@ -20,7 +20,7 @@ The dataset contains the following columns: - **nama** (Name) - **umur**
 
 ## Project Structure
 
-    python-dataset-sorting/
+    1_sorter_using_pandas/
     │
     ├── src/
     │   └── dataset_sorting.py
