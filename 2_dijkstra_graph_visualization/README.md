@@ -52,6 +52,11 @@ From the project root directory, run:
 python src/dijkstra_graph.py
 ```
 
+## Example Output
+
+![Dijkstra Graph Visualization](example.png)
+
+
 ## Notes
 
 -   This program uses NetworkX to implement Dijkstra's algorithm.

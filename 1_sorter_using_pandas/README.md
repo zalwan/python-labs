@@ -48,6 +48,11 @@ From the project root directory, run:
 python src/dataset_sorting.py
 ```
 
+## Example Output
+
+![Sorter Using Pandas](example.png)
+
+
 ## Notes
 
 -   This program uses pandas DataFrame and the `sort_values()` method.
